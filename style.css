@@ -1,0 +1,50 @@
+h2{
+    text-align: center;
+    color: red;
+    font-size:large;
+}
+.Intro{
+
+    text-align: center;
+    color: white;
+    font-size: medium;
+    margin-top: 50px;
+}
+.optionHeros{
+    border-bottom-color: black;
+    font-size: large;
+    margin-top: 50px;
+}
+.field{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top:80px;
+
+}
+.Save{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+}
+.choix{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+    color: white;
+}
+.saveCombat{
+    font-size: larger;
+
+}
+body{
+    color: black;
+    background-image: url("https://cdn-media.rtl.fr/online/image/2015/0828/7779530675_la-guerre-entre-super-heros-commence-dans-captain-america-civil-war.PNG");
+    background-attachment:fixed;
+    margin: auto;
+    background-position:100% 100%;
+}
